@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-#The Notebook
+# The Notebook
 ** Themes **
 -Romance
 -Drama
